@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Customer
+comment1.params=name
+comment1.target=Customer(java.lang.String)
+comment2.params=item
+comment2.target=void\ addMenuItemToOrder(MenuItem)
+comment3.params=
+comment3.target=void\ placeOrder()
+numComments=4
